@@ -1,5 +1,5 @@
 # Flower
-My app for reminder flower irrigation
+My app for reminder flower irrigation.
 When I transferred files to Github, I accidentally deleted my project. There are only screenshots left😭
 
 <p float="left">
